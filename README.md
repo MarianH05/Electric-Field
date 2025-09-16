@@ -27,17 +27,17 @@ For an in-depth explanation of the physics, numerical methods, implementation de
 │   ├── sim2.gif
 │   └── sim3.gif
 └── src
-├── calculateElectricField.m
-├── calculatePotential.m
-├── electric_field_visualization.m # Main GUI
-├── plotCharges.m
-├── plotElectricFieldVectors.m
-├── plotEquipotentialLines.m
-├── plotFieldLines.m
-├── report.tex
-├── safeDelete.m
-├── simulateMotion.m
-└── traceFieldLine.m
+    ├── calculateElectricField.m
+    ├── calculatePotential.m
+    ├── electric_field_visualization.m # Main GUI
+    ├── plotCharges.m
+    ├── plotElectricFieldVectors.m
+    ├── plotEquipotentialLines.m
+    ├── plotFieldLines.m
+    ├── report.tex
+    ├── safeDelete.m
+    ├── simulateMotion.m
+    └── traceFieldLine.m
 ```
 
 ---
